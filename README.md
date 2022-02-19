@@ -6,4 +6,4 @@ A Flask API that leverages the convolutional base of Xception model pre-trained 
 
 ## Usage
 
-Send a POST request (encoded as multipart/form-data) with the image data ('image' field). The front-end code can be found [here](https://github.com/sahilshaheen/cat-kanye-pikachu-classifier-frontend) for reference.
+Send a POST request (encoded as multipart/form-data) with the image data ('image' field) to https://stormy-sands-03353.herokuapp.com/ (root). The front-end code can be found [here](https://github.com/sahilshaheen/cat-kanye-pikachu-classifier-frontend) for reference.
